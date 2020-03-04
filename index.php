@@ -200,26 +200,20 @@
                         <img class="margin-23" src="media/phone-2.png" alt="" />
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
-                        <h2>Start many conversations <br />with your buddies in seconds.</h2>
+                        <h2>Mudah, Praktis dan Tersistem</h2>
                         <p>
-                            Lorem ipsum dolor sit ametno sea takimata sanctus est Lorem ipsum dolor sit amete.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco sea takimata sanctus eslaboriso.
-                            Aipsum dolor sit amete sanctus artequis nostrud exercitation ullamco sea tassa.
+                            Aplikasiku di design dengan system yang sangat sederhana. Hal ini agar mudah dipahami dan digunakan oleh UKM terlebih bagi UKM yang masih awam dengan pembukuan.
                         </p>
-                        <a href="index-chat.html#" class="btn-text">Explore services</a>
                     </div>
                 </div>
                 <hr class="space-sm" />
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6" data-anima="fade-left" data-time="1000">
                         <hr class="space-sm visible-md" />
-                        <h2>Photo and video library <br />to collect your best moments.</h2>
+                        <h2>Fitur Keuangan Yang Mudah</h2>
                         <p>
-                            Lorem ipsum dolor sit ametno sea takimata sanctus est Lorem ipsum dolor sit amete.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco sea takimata sanctus eslaboriso.
-                            Aipsum dolor sit amete sanctus artequis nostrud exercitation ullamco sea tassa.
+                            Sistem aplikasiku sangat mudah baik untuk system transaksi, laporan keuangan, pengeluaran maupun persediaan. Laporan yang disajikannya sederhana agar mempermudah UKM saat menganalisa keuangan.
                         </p>
-                        <a href="index-chat.html#" class="btn-text">Explore services</a>
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
                         <img class="margin-23" src="media/phone-3.png" alt="" />
@@ -234,31 +228,13 @@
                         <img class="margin-23" src="media/phone-5.png" alt="" />
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
-                        <h2>Organize friends and<br />groups from the contacts area.</h2>
+                        <h2>Kapanpun, Apapun dan Dimanapun</h2>
                         <p>
-                            Lorem ipsum dolor sit ametno sea takimata sanctus est Lorem ipsum dolor sit amete.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco sea takimata sanctus eslaboriso.
-                            Aipsum dolor sit amete sanctus artequis nostrud exercitation ullamco sea tassa.
+                            Anda dapat dengan mudah memantau perkembangan serta laporan harian usaha Anda tanpa harus di depan komputer, karena dapat dilakukan dengan smartphone.
                         </p>
-                        <a href="index-chat.html#" class="btn-text">Explore services</a>
                     </div>
                 </div>
                 <hr class="space-sm" />
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6" data-anima="fade-left" data-time="1000">
-                        <hr class="space-sm visible-md" />
-                        <h2>Trusted all over the world<br />by a wide range of companies.</h2>
-                        <p>
-                            Lorem ipsum dolor sit ametno sea takimata sanctus est Lorem ipsum dolor sit amete.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco sea takimata sanctus eslaboriso.
-                            Aipsum dolor sit amete sanctus artequis nostrud exercitation ullamco sea tassa.
-                        </p>
-                        <a href="index-chat.html#" class="btn-text">Explore services</a>
-                    </div>
-                    <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
-                        <img class="margin-23" src="media/phone-4.png" alt="" />
-                    </div>
-                </div>
             </div>
         </section>
     </main>
@@ -267,7 +243,7 @@
         <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <h2>Start now. Download the app.</h2>
+                        <h2>Unduh aplikasi sekarang juga.</h2>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
                         </p>
@@ -281,7 +257,7 @@
         <div class="footer-bar">
             <div class="container">
                 <span>© Aplikasiku.co.id <?= date("Y") ?></span>
-                <span><img src="media/logo-light.svg" alt="" /></span>
+                <span><img src="media/logo.png" alt="" /></span>
             </div>
         </div>
         <link rel="stylesheet" href="themekit/media/icons/iconsmind/line-icons.min.css">
