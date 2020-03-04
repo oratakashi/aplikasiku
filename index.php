@@ -227,8 +227,8 @@
                         </p>
                     </div>
                     <div class="col-lg-6 align-right align-left-md">
-                        <a class="btn-store" href="index-food.html#"><img src="media/store-google-white.png" alt="" /></a>
-                        <a class="btn-store" href="index-food.html#"><img src="media/store-apple-white.png" alt="" /></a>
+                        <a class="btn-store" href="https://play.google.com/store/apps/details?id=com.oratakashi.aplikasiku" target="_blank"><img src="media/store-google-white.png" alt="" /></a>
+                        <!-- <a class="btn-store" href="index-food.html#"><img src="media/store-apple-white.png" alt="" hidden/></a> -->
                     </div>
                 </div>
             </div>
