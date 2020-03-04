@@ -6,7 +6,6 @@
                 <img class="logo-retina" src="media/logo.png" alt="logo" />
             </a>
         </div>
-        <i class="menu-btn"></i>
         <div class="menu-cnt">
             
         </div>
