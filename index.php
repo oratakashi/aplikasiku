@@ -43,7 +43,7 @@
                         <p>
                             Kelola dan Kontrol Keuangan Perusahaan Anda dengan Laporan Keuangan Secara Realtime dan Tersistem
                         </p>
-                        <a href="<?= base_url("register.php") ?>" class="btn btn-sm btn-circle btn-border text-bold shadow-1 full-width-sm">Daftar Sekarang</a><span class="space"></span>
+                        <a href="https://api.whatsapp.com/send?phone=6282137374862" class="btn btn-sm btn-circle btn-border text-bold shadow-1 full-width-sm" target="_blank">Daftar Sekarang</a><span class="space"></span>
                         <hr class="space-xs" />
                     </div>
                     <div class="col-lg-6" data-anima="fade-bottom" data-time="1000">
@@ -75,9 +75,6 @@
                                         <i class="im-bar-chart"></i>
                                         <div class="caption">
                                             <h2>Penjualan</h2>
-                                            <p>
-                                                Input data penjualan yang mudah digunakan
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -86,9 +83,6 @@
                                         <i class="im-wallet-2"></i>
                                         <div class="caption">
                                             <h2>Jurnal Kas</h2>
-                                            <p>
-                                                Input data pengeluaran jurnal kas sesuai kebutuhan
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -97,9 +91,6 @@
                                         <i class="im-compass"></i>
                                         <div class="caption">
                                             <h2>Satuan Produk</h2>
-                                            <p>
-                                                Informasi tentang satuan produk yang dapat disesuaikan
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -108,9 +99,6 @@
                                         <i class="im-full-basket"></i>
                                         <div class="caption">
                                             <h2>Produk & Stok</h2>
-                                            <p>
-                                                Data produk beserta jumlah stok yang tersedia
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -123,9 +111,6 @@
                                         <i class="im-tag-2"></i>
                                         <div class="caption">
                                             <h2>Perkiraan Jurnal</h2>
-                                            <p>
-                                                Data perkiraan jurnal yang dapat diisi sesuai kebutuhan
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -134,9 +119,6 @@
                                         <i class="im-lock"></i>
                                         <div class="caption">
                                             <h2>Ganti Password</h2>
-                                            <p>
-                                                Menjaga keamanan data yang anda miliki
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -145,9 +127,6 @@
                                         <i class="im-shop-2"></i>
                                         <div class="caption">
                                             <h2>Konfigurasi</h2>
-                                            <p>
-                                                Informasi tentang usaha Anda yang dapat disesuaikan
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -156,9 +135,6 @@
                                         <i class="im-optimization"></i>
                                         <div class="caption">
                                             <h2>Report</h2>
-                                            <p>
-                                                Rekap hasil penjualan, pengeluaran kas dan laba-rugi
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -197,7 +173,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6" data-anima="fade-left" data-time="1000">
-                        <img class="margin-23" src="media/phone-2.png" alt="" />
+                        <img class="margin-23" src="media/hp1.jpg" alt="" />
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
                         <h2>Mudah, Praktis dan Tersistem</h2>
@@ -216,7 +192,7 @@
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
-                        <img class="margin-23" src="media/phone-3.png" alt="" />
+                        <img class="margin-23" src="media/hp2.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -225,7 +201,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6" data-anima="fade-left" data-time="1000">
-                        <img class="margin-23" src="media/phone-5.png" alt="" />
+                        <img class="margin-23" src="media/hp3.jpg" alt="" />
                     </div>
                     <div class="col-lg-6 col-md-6" data-anima="fade-right" data-time="1000">
                         <h2>Kapanpun, Apapun dan Dimanapun</h2>
@@ -245,7 +221,9 @@
                     <div class="col-lg-6">
                         <h2>Unduh aplikasi sekarang juga.</h2>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
+                            Jl. Grompol -Jambangan Km. 1,5 Krebet, Masaran, Sragen <br>
+                            info@ichwan-ms.com <br>
+                            Telp. +62271 688 2958 
                         </p>
                     </div>
                     <div class="col-lg-6 align-right align-left-md">
